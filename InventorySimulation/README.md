@@ -12,6 +12,24 @@ System Inputs:
 <li >First Order arrives after</li >
 <li >First Order Quantity</li ></ol>
 
+System Outputs:
+ Simulation Table having the following columns:
+<ol start = "1">
+<ul type -= "circle"  >Day</ul >
+<li >Cycle</li >
+<li >Day within cycle</li >
+<li >Beginning Inventory</li >
+<li >Random Digit for Demand</li >
+<li >Demand</li >
+<li >Ending Inventory</li >
+<li >Shortage Quantity</li >
+<li >Order Quantity</li >
+<li >Random Digit for Demand</li >
+<li >Lead Time</li >
+<li >Days until Order arrives</li ></ol>
+- Performance Measures
+<li >Ending Inventory Average </li>
+<li >Shortage Quantity Average </li>
 
 It's Implementation for a part of the HTTP protocol.
 - Threaded (multiple clients)
