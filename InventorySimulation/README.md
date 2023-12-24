@@ -16,7 +16,7 @@ System Outputs:
 <ol start = "1">
  <li >Simulation Table having the following columns:
 
-<ul type -= "circle"  >Day</ul >
+<ul tupe -= "circle"  >Day</ul >
 <li >Cycle</li >
 <li >Day within cycle</li >
 <li >Beginning Inventory</li >
