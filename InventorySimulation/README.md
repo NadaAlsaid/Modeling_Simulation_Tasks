@@ -2,7 +2,7 @@
  A Simulation System for a company sells refrigerators with an inventory system that review the inventory situation after a fixed number of days (N) and order up to a level (M).
 
 System Inputs:
-<ol >The Order-up-to-level (M)</ol>
+<ol start = "1">The Order-up-to-level (M)</ol>
 <li >The Review Period (N)</li >
 <li >The Demand probability Distribution</li >
 <li >The Lead Time probability Distribution<li >
