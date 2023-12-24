@@ -2,14 +2,14 @@
  A Simulation System for a company sells refrigerators with an inventory system that review the inventory situation after a fixed number of days (N) and order up to a level (M).
 
 System Inputs:
-<ol start = "1">The Order-up-to-level (M)</ol>
+<ol start = "1">The Order-up-to-level (M)
 <li >The Review Period (N)</li >
 <li >The Demand probability Distribution</li >
 <li >The Lead Time probability Distribution<li >
 <li >Number of Days ( Stopping Condition)<li >
 <li >Beginning Inventory Quantity<li >
 <li >First Order arrives after<li >
-<li >First Order Quantity<li >
+<li >First Order Quantity<li ></ol>
 
 
 It's Implementation for a part of the HTTP protocol.
