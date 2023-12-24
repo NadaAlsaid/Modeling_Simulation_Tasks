@@ -13,8 +13,9 @@ System Inputs:
 <li >First Order Quantity</li ></ol>
 
 System Outputs:
- Simulation Table having the following columns:
 <ol start = "1">
+ <li >Simulation Table having the following columns:
+
 <ul type -= "circle"  >Day</ul >
 <li >Cycle</li >
 <li >Day within cycle</li >
@@ -26,7 +27,7 @@ System Outputs:
 <li >Order Quantity</li >
 <li >Random Digit for Demand</li >
 <li >Lead Time</li >
-<li >Days until Order arrives</li ></ol>
+<li >Days until Order arrives</li ></li></ol>
 - Performance Measures
 <li >Ending Inventory Average </li>
 <li >Shortage Quantity Average </li>
