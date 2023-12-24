@@ -1,4 +1,4 @@
-<h1 align = "center">MultiQueue Simulation</h1>
+<h1 align = "center">Newspaper Seller Simulation</h1>
  A Simulation System for Newspaper Seller measures profit for each day accourding some input during 20 days .
 </br>
 
