@@ -14,9 +14,9 @@ System Inputs:
 
 System Outputs:
 <ol start = "1">
- <li >Simulation Table having the following columns:
-
-<ul tupe -= "circle"  >Day</ul >
+ <li >Simulation Table having the following columns:</li>
+<ul >
+<li > Day<li >
 <li >Cycle</li >
 <li >Day within cycle</li >
 <li >Beginning Inventory</li >
@@ -27,11 +27,15 @@ System Outputs:
 <li >Order Quantity</li >
 <li >Random Digit for Demand</li >
 <li >Lead Time</li >
-<li >Days until Order arrives</li ></li></ol>
-- Performance Measures
+<li >Days until Order arrives</li >
+</ul >
+
+<li>Performance Measures</li>
+<ul>
 <li >Ending Inventory Average </li>
 <li >Shortage Quantity Average </li>
-
+ </ul>
+</ol>
 It's Implementation for a part of the HTTP protocol.
 - Threaded (multiple clients)
 - GET only.
